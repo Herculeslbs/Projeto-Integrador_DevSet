@@ -10,7 +10,7 @@ Integrantes:<br>
 
 Site:<br>
 <a href="devset.vercel.app">devset.vercel.app</a>
-Copie e cole este link no seu navegador!
+<br>Copie e cole este link no seu navegador!
 
 Slides:<br>
 <br>
