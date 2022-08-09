@@ -18,3 +18,6 @@ Slides:<br>
 <img src="https://github.com/samupapati/Dev_Web_IOS_Projeto_Integrador/blob/main/slides/Slide%202.jpg"/>
 <img src="https://github.com/samupapati/Dev_Web_IOS_Projeto_Integrador/blob/main/slides/Slide%203.jpg"/>
 <img src="https://github.com/samupapati/Dev_Web_IOS_Projeto_Integrador/blob/main/slides/Slide%204.jpg"/>
+<br><br>
+Link do Slide
+https://www.canva.com/design/DAFFroNCg4k/EXsVbsfaFVVEJvMGTUWGhA/view?utm_content=DAFFroNCg4k&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#4
