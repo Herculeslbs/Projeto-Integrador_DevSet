@@ -2,15 +2,15 @@
 
 TCC do curso de Programação web realizado no Instituto da Oportunidade Social.
 
+Site:<br>
+<a href="devset.vercel.app">devset.vercel.app</a>
+<br>Copie e cole este link no seu navegador!
+
 Integrantes:<br> 
 <a href="https://github.com/brenuvs">Breno</a><br>
 <a href="https://github.com/CassiooDEV">Cassio</a><br>
 <a href="https://github.com/Herculeslbs">Hercules</a><br>
 <a href="https://github.com/samupapati">Samuel</a><br>
-
-Site:<br>
-<a href="devset.vercel.app">devset.vercel.app</a>
-<br>Copie e cole este link no seu navegador!
 
 Slides:<br>
 <br>
