@@ -3,7 +3,7 @@
 TCC do curso de Programação web realizado no Instituto da Oportunidade Social.
 
 Site:<br>
-<a  href="https://devset.vercel.app/" target="blank">devset.vercel.app</a>
+<a  href="https://devset.vercel.app/" target="_blank">devset.vercel.app</a>
 <br>Copie e cole este link no seu navegador!
 
 Integrantes:<br> 
